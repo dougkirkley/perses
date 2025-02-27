@@ -23,5 +23,5 @@ package plugin
 
 #Plugin: {
 	kind: #enumKind @go(Kind)
-	spec: #Spec  @go(Spec)
+	spec: #Spec     @go(Spec)
 }
